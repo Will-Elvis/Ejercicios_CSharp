@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica 1", "Practica 1\Practica 1.csproj", "{256EC1FE-3BA4-4A02-ABCF-0BCFAD08DCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1", "Ejercicio_1\Ejercicio_1.csproj", "{F7491ADE-0393-4ADD-B070-5E0D51188DED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio 2", "Ejercicio 2\Ejercicio 2.csproj", "{B6FE9957-E754-436D-A157-6804E8355153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256EC1FE-3BA4-4A02-ABCF-0BCFAD08DCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256EC1FE-3BA4-4A02-ABCF-0BCFAD08DCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256EC1FE-3BA4-4A02-ABCF-0BCFAD08DCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256EC1FE-3BA4-4A02-ABCF-0BCFAD08DCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7491ADE-0393-4ADD-B070-5E0D51188DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7491ADE-0393-4ADD-B070-5E0D51188DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7491ADE-0393-4ADD-B070-5E0D51188DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7491ADE-0393-4ADD-B070-5E0D51188DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FE9957-E754-436D-A157-6804E8355153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FE9957-E754-436D-A157-6804E8355153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FE9957-E754-436D-A157-6804E8355153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FE9957-E754-436D-A157-6804E8355153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
